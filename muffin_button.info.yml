@@ -1,0 +1,5 @@
+name: Muffin Button
+type: module
+description: 'Zietlow's muffin button sandbox'
+package: zietlow
+core: 8.x
